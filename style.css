@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: purple;
+    color: black;
+}
+.container{
+    background-color: white;
+    width: 50%;
+    height:400px;
+    margin: 20px auto;
+    padding: 20px;
+}
+a{
+   text-decoration: none;
+   color: black;
+}
+h1{
+    text-align: center;
+}
+.section{
+    width: 100%;
+    margin: 40px auto;
+
+img{
+    width: 20%;
+    margin-left: 190px;
+    m
+
+}
+.btn-section{
+    width: 100%;
+    margin-left: 50px;
+    padding: 20px;
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+
+}
+.btn{
+    padding: 20px;
+    font-size: larger;
+    color: black;
+    border: 1px solid grey;
+}
+.btn:hover{
+    background-color:purple ;
+    color: white;
+}
+a:hover{
+    background-color:purple ;
+    color: white;
+
+}
